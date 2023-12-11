@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksnapshot=self.webpackChunksnapshot||[]).push([[494],{494:(s,a,e)=>{s.exports=e.p+"static/media/343452E6-F4DF-4A64-BC57-05F7F969318F.1d5a66f744a3babd292d.jpeg"}}]);
